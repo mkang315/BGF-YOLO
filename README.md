@@ -2,11 +2,11 @@
 This is the source code for the paper, "BGF-YOLO: Enhanced YOLOv8 with Multiscale Attentional Feature Fusion for Brain Tumor Detection", of which I am the first author.
 
 ## Model
-The model configuration (i.e., network construction) file is bgf-yolo.yaml in the directory [./cfg/models/bgf](https://github.com/mkang315/BGF-YOLO/blob/main/cfg/models/bgf/bgf-yolo.yaml).
+The model configuration (i.e., network construction) file is bgf-yolo.yaml in the directory [./models/bgf](https://github.com/mkang315/BGF-YOLO/blob/main/models/cfg/bgf-yolo.yaml).
 
 #### Training
 
-The hyperparameter setting file is default.yaml in the directory [./cfg/](https://github.com/mkang315/BGF-YOLO/blob/main/cfg/default.yaml).
+The hyperparameter setting file is default.yaml in the directory [./yolo/cfg/](https://github.com/mkang315/BGF-YOLO/blob/main/yolo/cfg/default.yaml).
 
 ###### Training CLI
 ```
