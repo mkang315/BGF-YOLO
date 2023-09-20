@@ -1,8 +1,8 @@
-# Official BGFG-YOLO
+# Official BGF-YOLO
 This is the source code for the paper, "BGF-YOLO: Enhanced YOLOv8 with Multiscale Attentional Feature Fusion for Brain Tumor Detection", of which I am the first author.
 
 ## Model
-The model configuration (i.e., network construction) file is bgf-yolo.yaml in the directory [./models/bgf](https://github.com/mkang315/BGF-YOLO/blob/main/models/cfg/bgf-yolo.yaml).
+The model configuration (i.e., network construction) file is bgf-yolo.yaml in the directory [./models/bgf](https://github.com/mkang315/BGF-YOLO/blob/main/models/bgf/bgf-yolo.yaml).
 
 #### Training
 
