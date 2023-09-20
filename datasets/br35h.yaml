@@ -1,0 +1,6 @@
+train: D://Br35H/TRAIN/
+val: D://Br35H/VAL/
+test: D://Br35H/TEST/
+
+nc: 1
+names: ['Brain tumor']
