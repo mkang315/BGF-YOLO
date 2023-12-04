@@ -1,9 +1,9 @@
-# BGFG-YOLO based on Ultralytics YOLOv8x 8.0.109 object detection model with same license, AGPL-3.0 license
+# BGF-YOLO based on Ultralytics YOLOv8x 8.0.109 object detection model with same license, AGPL-3.0 license
 from copy import copy
 
 import numpy as np
 import sys
-sys.path.append("/root/ultralytics-modify_biformer_gfpn_4head")
+sys.path.append("/root/BGF-YOLO")
 from ...nn.tasks import DetectionModel
 from ...yolo import bgf
 from ...yolo.data import build_dataloader, build_yolo_dataset
