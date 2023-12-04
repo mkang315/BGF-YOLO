@@ -1,0 +1,15 @@
+Changes from the YOLO Ultralytics YOLO 🚀, AGPL-3.0 license (https://github.com/ultralytics/ultralytics).
+
+Changes of directories:
+1. The root directory .\BGF-YOLO-main\ comes from the original directory .\ultralytics-main\ultralytics.
+2. The directories of all dependencies in most files except the files in the folders 'assets' and 'hub'. For example, 'from ultralytics.xx.xxx import *' was changed to 'from ...xx.xxx import *'.
+
+Changes of folders:
+3. The folder .\yolo\bgf comes from the original directory .\ultralytics\yolo\v8.
+4. The folder .\models\bgf comes from the original directory .\ultralytics\models\v8.
+
+Changes of files:
+5. The new module files are in the directory .\nn\modules.
+6. The new loss function files wiou.py is in the directory .\nn\modules.
+7. The file loss.py in the directory .\nn\modules.
+8. Most flies in the folders '.\yolo\bgf', '.\yolo\cfg', and .\models\bgf.
