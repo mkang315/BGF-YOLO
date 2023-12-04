@@ -1,4 +1,4 @@
-# BGFG-YOLO based on Ultralytics YOLOv8x 8.0.109 object detection model with same license, AGPL-3.0 license
+# BGF-YOLO based on Ultralytics YOLOv8x 8.0.109 object detection model with same license, AGPL-3.0 license
 
 import os
 from pathlib import Path
@@ -6,7 +6,7 @@ from pathlib import Path
 import numpy as np
 import torch
 import sys
-sys.path.append("/root/BFG-YOLO")
+sys.path.append("/root/BGF-YOLO")
 from ...yolo.data import build_dataloader, build_yolo_dataset
 from ...yolo.data.dataloaders.v5loader import create_dataloader
 from ...yolo.engine.validator import BaseValidator
