@@ -4,11 +4,15 @@ This is the source code for the paper, "BGF-YOLO: Enhanced YOLOv8 with Multiscal
 ## Model
 The model configuration (i.e., network construction) file is bgf-yolo.yaml in the directory [./models/bgf](https://github.com/mkang315/BGF-YOLO/blob/main/models/bgf/bgf-yolo.yaml).
 
-#### Training
-
 The hyperparameter setting file is default.yaml in the directory [./yolo/cfg/](https://github.com/mkang315/BGF-YOLO/blob/main/yolo/cfg/default.yaml).
 
-###### Training CLI
+##### Installation
+Install requirements.txt in a Python>=3.8.0 environment, including PyTorch>=1.8.
+```
+pip install -r requirements.txt  # install
+```
+
+##### Training CLI
 ```
 python yolo/bgf/detect/train.py
 ```
