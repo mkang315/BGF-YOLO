@@ -26,6 +26,12 @@ python yolo/bgf/detect/predict.py
 ## Evaluation
 We trained and evaluated BGF-YOLO on the dataset [Br35H :: Brain Tumor Detection 2020](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection). The .txt format annotations in the file [dataset-Br35H.zip](https://github.com/mkang315/BGF-YOLO/blob/main/dataset-Br35H.zip) are coverted from original json format.
 
+| Model | Precision | Recall | mAP<sub>50</sub> | mAP<sub>50:95</sub> |
+| :-------: | :-------: | :-------: | :-------: | :-------: |
+| [RT-DETR-X](https://github.com/ultralytics/ultralytics/tree/main/ultralytics/cfg/models/rt-detr) | 0.825 | 0.770 | 0.870 | 0.597 |
+| [YOLOv9-E](https://github.com/WongKinYiu/yolov9) | 0.927 | 0.869 | 0.919 | 0.630 |
+| **BGF-YOLO (Ours)** | 0.919 | 0.926 | **0.974** | **0.653** |
+
 ## Generalizability in External Validation
 We conducted additional experimental validation on a different domain using the [COVID-19 facemask detection dataset](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection). The table below consistently shows the superior detection performance of our method compared to YOLOv8x. This indicates the generalizability of our method to other domains of object detection.
 
