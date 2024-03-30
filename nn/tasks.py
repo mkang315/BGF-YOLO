@@ -9,7 +9,7 @@ import torch.nn as nn
 
 from ...nn.modules import (AIFI, C1, C2, C3, C3TR, SPP, SPPF, Bottleneck, BottleneckCSP, C2f, C3Ghost, C3x,
                                     Classify, Concat, Conv, Conv2, ConvTranspose, Detect, DWConv, DWConvTranspose2d,
-                                    Focus, GhostBottleneck, GhostConv, HGBlock, HGStem, RepC3, RepConv,
+                                    Focus, GhostBottleneck, GhostConv, HGBlock, HGStem, Pose, RepC3, RepConv,
                                     RTDETRDecoder, Segment, cbam_block, eca_block, CA_Block, se_block,CSPStage,BiLevelRoutingAttention)
 from ...yolo.utils import DEFAULT_CFG_DICT, DEFAULT_CFG_KEYS, LOGGER, colorstr, emojis, yaml_load
 from ...yolo.utils.checks import check_requirements, check_suffix, check_yaml
