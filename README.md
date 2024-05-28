@@ -31,6 +31,7 @@ We trained and evaluated BGF-YOLO on the dataset [Br35H :: Brain Tumor Detection
 | [RT-DETR-X](https://github.com/ultralytics/ultralytics/tree/main/ultralytics/cfg/models/rt-detr) | 0.825 | 0.770 | 0.870 | 0.597 |
 | [Co-DETR with Swin L (36 Epochs, DETR Augmentation)](https://github.com/Sense-X/Co-DETR) | – | – | 0.941 | 0.609 |
 | [YOLOv9-E](https://github.com/WongKinYiu/yolov9) | **0.927** | 0.869 | 0.919 | 0.630 |
+| [YOLOv10-X](https://github.com/THU-MIG/yolov10) | 0.916 | 0.808 | 0.880 | 0.603 |
 | **BGF-YOLO (Ours)** | 0.919 | **0.926** | **0.974** | **0.653** |
 
 ## Generalizability in External Validation
