@@ -6,11 +6,6 @@ The model configuration (i.e., network construction) file is bgf-yolo.yaml in th
 
 The hyperparameter setting file is default.yaml in the directory [./yolo/cfg/](https://github.com/mkang315/BGF-YOLO/blob/main/yolo/cfg).
 
-Recommended dependencies:
-```
-Python = 3.8 | 3.9 | 3.10 | 3.11 | 3.12
-```
-
 ##### Installation
 Install requirements.txt in a Python>=3.8.0 environment, including PyTorch>=1.8.
 ```
