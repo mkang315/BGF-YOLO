@@ -69,46 +69,46 @@ Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: BGF-YOLO: enhanced YOLOv8 with
 Kang, M., Ting, C.-M., Ting, F. F. & Phan, R. C.-W. BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. In *Medical Image Computing and Computer-Assisted Intervention – MICCAI 2024: 27th International Conference, Marrakesh, Morocco, October 6–10, 2024, Proceedings, Part IV* (eds. Xxxxx, X. et al.) 000–000 (Springer, 2024).</br>
 
 - IEEE Reference Style</br>
-M. Kang, C.-M. Ting, F. F. Ting, and R. C.-W. Phan, "Rcs-yolo: A fast and high-accuracy object detector for brain tumor detection," in *Proc. Int. Conf. Med. Image Comput. Comput. Assist. Interv. (MICCAI)*, Marrakesh, Morocco, Oct. 6–10, 2024, pp. 600–610.</br>
+M. Kang, C.-M. Ting, F. F. Ting, and R. C.-W. Phan, "Bgf-yolo: Enhanced yolov8 with multiscale attentional feature fusion for brain tumor detection," in *Proc. Int. Conf. Med. Image Comput. Comput. Assist. Interv. (MICCAI)*, Marrakesh, Morocco, Oct. 6–10, 2024, pp. 000–000.</br>
 <sup>**NOTE:** City of Conf., Abbrev. State, Country, Month & day(s) are optional.</sup>
 
 - Elsevier Reference Style</br>
-M. Kang, C.-M. Ting, F.F. Ting, R.C.-W. Phan, RCS-YOLO: a fast and high-accuracy object detector for brain tumor detection, in: H. Greenspan, A. Madabhushi, P. Mousavi, S. Salcudean, J. Duncan, T. Syeda-Mahmood, et al. (Eds.), Proceedings of the 26th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 8–12 October 2023, Vancouver, BC, Canada, Springer, Cham, 2023, pp. 600–610.</br>
+M. Kang, C.-M. Ting, F.F. Ting, R.C.-W. Phan, BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection, in: X. Xxxx, X. Xxxx, X. Xxxx, X. Xxxx, X. Xxxx, X. Xxxx, et al. (Eds.), Proceedings of the 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 6–10 October 2024, Marrakesh, Morocco, Springer, Cham, 2024, pp. 000–000.</br>
 <sup>**NOTE:** Day(s) Month Year, City, Abbrev. State, Country of Conference, Publiser, and Place of Publication are optional.</sup>
 
 > BibTeX Format</br>
 ```
 \begin{thebibliography}{1}
-\bibitem{Kang23Rcsyolo} Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: RCS-YOLO: a fast and high-accuracy object detector for brain tumor detection. In: Greenspan, H., et al. (eds.) MICCAI 2023. LNCS, vol. 14223, 600--610. Springer, Cham (2023). {\UrlFont https://doi.org/10.1007/978-3-031-43901-8\_57}
+\bibitem{Kang24Bgfyolo} Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. In: Xxxx, X., et al. (eds.) MICCAI 2024. LNCS, vol. 00000, 000--000. Springer, Cham (2024). {\UrlFont https://doi.org/10.1007/978-3-000-00000-0\_00}
 \end{thebibliography}
 ```
 ```
-@inproceedings{Kang23Rcsyolo,
+@inproceedings{Kang24Bgfyolo,
   author = "Kang, Ming and Ting, Chee-Ming and Ting, Fung Fung and Phan, Rapha{\"e}l C.-W.",
-  title = "RCS-YOLO: a fast and high-accuracy object detector for brain tumor detection",
-  editor = "Greenspan, Hayit and et al.",
-  booktitle = "Medical Image Computing and Computer-Assisted Intervention – MICCAI 2023: 26th International Conference, Vancouver, Canada, October 8--12, 2023, Proceedings, Part IV",
+  title = "BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection",
+  editor = "Xxxxx, Xxxx and et al.",
+  booktitle = "Medical Image Computing and Computer-Assisted Intervention – MICCAI 2024: 27th International Conference, Marrakesh, Morocco, October 6--10, 2024, Proceedings, Part XX",
   series = "Lecture Notes in Computer Science (LNCS)",
-  volume = "14223",
-  pages = "600--610",
+  volume = "00000",
+  pages = "000--000",
   publisher = "Springer",
   address = "Cham",
-  year = "2023",
-  doi= "10.1007/978-3-031-43901-8_57",
-  url = "https://doi.org/10.1007/978-3-031-43901-8_57"
+  year = "2024",
+  doi= "10.1007/978-3-031-00000-0\_00",
+  url = "https://doi.org/10.1007/978-3-000-00000-0\_00"
 }
 ```
 ```
-@inproceedings{Kang23Rcsyolo,
+@inproceedings{Kang24Bgfyolo,
   author = "Ming Kang and Chee-Ming Ting and Fung Fung Ting and Rapha{\"e}l C.-W. Phan",
-  title = "Rcs-yolo: A fast and high-accuracy object detector for brain tumor detection",
+  title = "Bgf-yolo: Enhanced yolov8 with multiscale attentional feature fusion for brain tumor detection",
   booktitle = "Proc. Int. Conf. Med. Image Comput. Comput. Assist. Interv. (MICCAI)",
-  address = "Vancouver, BC, Canada, Oct. 8--12",
-  pages = "600--610",
-  year = "2023",
+  address = "Marrakesh, Morocco, Oct. 6--10",
+  pages = "000--000",
+  year = "2024",
 }
 ```
-<sup>**NOTE:** Please remove some optional *BibTeX* fields, for example, `series`, `volume`, `address`, `url` and so on, while the *LaTeX* compiler produces an error. Author names may be manually modified if not automatically abbreviated by the compiler under the control of the .bst file if applicable which defines bibliography/reference style. `Kang23Rcsyolo` could be `b1`, `bib1`, or `ref1` when references appear in numbered style in which they are cited. The quotation mark pair `""` in the field could be replaced by the brace `{}`. </sup>
+<sup>**NOTE:** Please remove some optional *BibTeX* fields, for example, `series`, `volume`, `address`, `url` and so on, while the *LaTeX* compiler produces an error. Author names may be manually modified if not automatically abbreviated by the compiler under the control of the .bst file if applicable which defines bibliography/reference style. `Kang24Bgfyolo` could be `b1`, `bib1`, or `ref1` when references appear in numbered style in which they are cited. The quotation mark pair `""` in the field could be replaced by the brace `{}`. </sup>
 -->
 ## License
 BGF-YOLO is released under the GNU Affero General Public License v3.0 (AGPL-3.0). Please see the [LICENSE](https://github.com/mkang315/BGF-YOLO/blob/main/LICENSE) file for more information.
