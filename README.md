@@ -1,6 +1,5 @@
 # Official BGF-YOLO
-This is the source code for the paper, "BGF-YOLO: Enhanced YOLOv8 with Multiscale Attentional Feature Fusion for Brain Tumor Detection", of which I am the first author.
-<!--accepted by the 27th International Conference on Medical Image Computing and Computer Assisted Intervention ([MICCAI 2024](https://conferences.miccai.org/2024/en)), of which I am the first author. The paper is available to download from [arXiv](https://arxiv.org/pdf/2309.12585.pdf).-->
+This is the source code for the paper, "BGF-YOLO: Enhanced YOLOv8 with Multiscale Attentional Feature Fusion for Brain Tumor Detection", accepted by the 27th International Conference on Medical Image Computing and Computer Assisted Intervention ([MICCAI 2024](https://conferences.miccai.org/2024/en)), of which I am the first author. The paper is available to download from [arXiv](https://arxiv.org/pdf/2309.12585.pdf).
 
 ## Model
 The model configuration (i.e., network construction) file is bgf-yolo.yaml in the directory [./models/bgf](https://github.com/mkang315/BGF-YOLO/blob/main/models/bgf).
@@ -27,6 +26,7 @@ python yolo/bgf/detect/predict.py
 ## Evaluation
 We trained and evaluated BGF-YOLO on the dataset [Br35H :: Brain Tumor Detection 2020](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection). The .txt format annotations in the file [dataset-Br35H.zip](https://github.com/mkang315/BGF-YOLO/blob/main/dataset-Br35H.zip) are coverted from original json format.
 
+<!--
 | Model | Precision | Recall | mAP<sub>50</sub> | mAP<sub>50:95</sub> |
 | :-------: | :-------: | :-------: | :-------: | :-------: |
 | [RT-DETR-X](https://github.com/ultralytics/ultralytics/tree/main/ultralytics/cfg/models/rt-detr) | 0.825 | 0.770 | 0.870 | 0.597 |
@@ -43,7 +43,6 @@ We conducted additional experimental validation on a different domain using the 
 | YOLOv8x | 0.866 | 0.773 | 0.802 | 0.494 |
 | **BGF-YOLO (Ours)** | 0.847 | 0.764 | **0.820** | **0.504** |
 
-<!--
 ## Suggested Citation
 Our manuscript has been uploaded on [arXiv](https://arxiv.org/abs/2309.12585). Please cite our paper if you use code from this repository:
 > Plain Text
@@ -56,7 +55,7 @@ Kang, M., Ting, C.-M., Ting, F. F. & Phan, R. C.-W. BGF-YOLO: enhanced YOLOv8 wi
 
 - *Springer* Style</br>
 Kang, M., Ting, C.-M., Ting, F. F., Phan, R.C.-W.: BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. arXiv preprint [arXiv:2309.12585](https://arxiv.org/abs/2309.12585) (2023)</br>
-
+-->
 ## Suggested Citation
 Please cite our paper if you use code from this repository:
 > Plain Text
@@ -109,7 +108,7 @@ M. Kang, C.-M. Ting, F.F. Ting, R.C.-W. Phan, BGF-YOLO: enhanced YOLOv8 with mul
 }
 ```
 <sup>**NOTE:** Please remove some optional *BibTeX* fields, for example, `series`, `volume`, `address`, `url` and so on, while the *LaTeX* compiler produces an error. Author names may be manually modified if not automatically abbreviated by the compiler under the control of the .bst file if applicable which defines bibliography/reference style. `Kang24Bgfyolo` could be `b1`, `bib1`, or `ref1` when references appear in numbered style in which they are cited. The quotation mark pair `""` in the field could be replaced by the brace `{}`. </sup>
--->
+
 ## License
 BGF-YOLO is released under the GNU Affero General Public License v3.0 (AGPL-3.0). Please see the [LICENSE](https://github.com/mkang315/BGF-YOLO/blob/main/LICENSE) file for more information.
 
