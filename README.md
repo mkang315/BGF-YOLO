@@ -6,13 +6,13 @@ The Bilevel routing attention, Generalized feature pyramid networks, and Fourth 
 
 The hyperparameter setting file is default.yaml in the directory [./yolo/cfg/](https://github.com/mkang315/BGF-YOLO/blob/main/yolo/cfg).
 
-##### Installation
+#### Installation
 Install requirements.txt in a Python >= 3.8 environment, including PyTorch >= 1.8.
 ```
 pip install -r requirements.txt  # install
 ```
 
-##### Training CLI
+#### Training CLI
 ```
 python yolo/bgf/detect/train.py
 ```
