@@ -61,11 +61,11 @@ Please cite our paper if you use code from this repository:
 > Plain Text
 
 - Springer Reference Style</br>
-Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. In: Xxxxx, X., et al. (eds.) MICCAI 2024. LNCS, vol. 15008, in press (000–000). Springer, Cham (2024). https://doi.org/10.1007/978-3-000-00000-0_00</br>
+Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. In: Xxxxx, X., et al. (eds.) MICCAI 2024. LNCS, vol. 15008, in press (000–000). Springer, Cham (2024). https://doi.org/10.1007/978-3-031-72110-6_4</br>
 <sup>**NOTE:** MICCAI conference proceedings are part of the book series LNCS in which Springer's format for bibliographical references is strictly enforced. This is important, for instance, when citing previous MICCAI proceedings. LNCS stands for Lecture Notes in Computer Science.</sup>
 
 - Nature Reference Style</br>
-Kang, M., Ting, C.-M., Ting, F. F. & Phan, R. C.-W. BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. In *Medical Image Computing and Computer-Assisted Intervention – MICCAI 2024: 27th International Conference, Marrakesh, Morocco, October 6–10, 2024, Proceedings, Part IV* (eds. Xxxxx, X. et al.) in press (000–000) (Springer, 2024).</br>
+Kang, M., Ting, C.-M., Ting, F. F. & Phan, R. C.-W. BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. In *Medical Image Computing and Computer-Assisted Intervention – MICCAI 2024: 27th International Conference, Marrakesh, Morocco, October 6–10, 2024, Proceedings, Part VIII* (eds. Xxxxx, X. et al.) in press (000–000) (Springer, 2024).</br>
 
 - IEEE Reference Style</br>
 M. Kang, C.-M. Ting, F. F. Ting, and R. C.-W. Phan, "Bgf-yolo: Enhanced yolov8 with multiscale attentional feature fusion for brain tumor detection," in *Proc. Int. Conf. Med. Image Comput. Comput. Assist. Interv. (MICCAI)*, Marrakesh, Morocco, Oct. 6–10, 2024, in press (pp. 000–000).</br>
@@ -82,7 +82,7 @@ Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W., 2024. BGF-YOLO: Enhanced YOLOv
 > BibTeX Format</br>
 ```
 \begin{thebibliography}{1}
-\bibitem{Kang24Bgfyolo} Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. In: Xxxx, X., et al. (eds.) MICCAI 2024. LNCS, vol. 15008, 000--000. Springer, Cham (2024). {\UrlFont https://doi.org/10.1007/978-3-031-72110-6\_00}
+\bibitem{Kang24Bgfyolo} Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. In: Xxxx, X., et al. (eds.) MICCAI 2024. LNCS, vol. 15008, 000--000. Springer, Cham (2024). {\UrlFont https://doi.org/10.1007/978-3-031-72110-6\_4}
 \end{thebibliography}
 ```
 ```
@@ -90,15 +90,15 @@ Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W., 2024. BGF-YOLO: Enhanced YOLOv
   author = "Kang, Ming and Ting, Chee-Ming and Ting, Fung Fung and Phan, Rapha{\"e}l C.-W.",
   title = "BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection",
   editor = "Xxxxx, Xxxx and et al.",
-  booktitle = "Medical Image Computing and Computer-Assisted Intervention – MICCAI 2024: 27th International Conference, Marrakesh, Morocco, October 6--10, 2024, Proceedings, Part XX",
+  booktitle = "Medical Image Computing and Computer-Assisted Intervention – MICCAI 2024: 27th International Conference, Marrakesh, Morocco, October 6--10, 2024, Proceedings, Part VIII",
   series = "Lecture Notes in Computer Science (LNCS)",
   volume = "15008",
   pages = "000--000",
   publisher = "Springer",
   address = "Cham",
   year = "2024",
-  doi= "10.1007/978-3-031-72110-6_00",
-  url = "https://doi.org/10.1007/978-3-031-72110-6_00"
+  doi= "10.1007/978-3-031-72110-6_4",
+  url = "https://doi.org/10.1007/978-3-031-72110-6_4"
 }
 ```
 ```
