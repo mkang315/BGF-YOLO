@@ -61,7 +61,7 @@ Please cite our paper if you use code from this repository:
 > Plain Text
 
 - Springer Reference Style</br>
-Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. In: Xxxxx, X., et al. (eds.) MICCAI 2024. LNCS, vol. 15008, in press (000–000). Springer, Cham (2024). https://doi.org/10.1007/978-3-031-72110-6_4</br>
+Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. In: Xxxxx, X., et al. (eds.) MICCAI 2024. LNCS, vol. 15008, in press (000–000). Springer, Cham (2024). https://doi.org/10.1007/978-3-031-72111-3_4</br>
 <sup>**NOTE:** MICCAI conference proceedings are part of the book series LNCS in which Springer's format for bibliographical references is strictly enforced. This is important, for instance, when citing previous MICCAI proceedings. LNCS stands for Lecture Notes in Computer Science.</sup>
 
 - Nature Reference Style</br>
@@ -82,7 +82,7 @@ Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W., 2024. BGF-YOLO: Enhanced YOLOv
 > BibTeX Format</br>
 ```
 \begin{thebibliography}{1}
-\bibitem{Kang24Bgfyolo} Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. In: Xxxx, X., et al. (eds.) MICCAI 2024. LNCS, vol. 15008, 000--000. Springer, Cham (2024). {\UrlFont https://doi.org/10.1007/978-3-031-72110-6\_4}
+\bibitem{Kang24Bgfyolo} Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. In: Xxxx, X., et al. (eds.) MICCAI 2024. LNCS, vol. 15008, 000--000. Springer, Cham (2024). {\UrlFont https://doi.org/10.1007/978-3-031-72111-3\_4}
 \end{thebibliography}
 ```
 ```
@@ -97,8 +97,8 @@ Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W., 2024. BGF-YOLO: Enhanced YOLOv
   publisher = "Springer",
   address = "Cham",
   year = "2024",
-  doi= "10.1007/978-3-031-72110-6_4",
-  url = "https://doi.org/10.1007/978-3-031-72110-6_4"
+  doi= "10.1007/978-3-031-72111-3_4",
+  url = "https://doi.org/10.1007/978-3-031-72111-3_4"
 }
 ```
 ```
