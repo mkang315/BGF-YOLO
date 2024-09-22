@@ -56,8 +56,8 @@ Kang, M., Ting, C.-M., Ting, F. F. & Phan, R. C.-W. BGF-YOLO: enhanced YOLOv8 wi
 - *Springer* Style</br>
 Kang, M., Ting, C.-M., Ting, F. F., Phan, R.C.-W.: BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. arXiv preprint [arXiv:2309.12585](https://arxiv.org/abs/2309.12585) (2023)</br>
 -->
-## Suggested Citation
-Please cite our paper if you use code from this repository:
+## Referencing Guide
+Please cite our paper if you use code from this repository. Here is a a guide to referencing this work in various styles for formatting your references:
 > Plain Text
 
 - Springer Reference Style</br>
