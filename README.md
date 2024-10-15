@@ -98,7 +98,7 @@ Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W., 2024. BGF-YOLO: Enhanced YOLOv
   address = "Cham",
   year = "2024",
   doi= "10.1007/978-3-031-72111-3_4",
-  url = "https://doi.org/10.1007/978-3-031-72111-3\_4"
+  url = "https://doi.org/10.1007/978-3-031-72111-3_4"
 }
 ```
 ```
