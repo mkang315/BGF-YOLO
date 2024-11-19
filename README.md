@@ -88,7 +88,7 @@ Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W., 2024. BGF-YOLO: Enhanced YOLOv
 ```
 @inproceedings{Kang24Bgfyolo,
   author = "Kang, Ming and Ting, Chee-Ming and Ting, Fung Fung and Phan, Rapha{\"e}l C.-W.",
-  title = "BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection",
+  title = "{BGF-YOLO}: enhanced {YOLO}v8 with multiscale attentional feature fusion for brain tumor detection",
   editor = "Linguraru, Marius George and et al.",
   booktitle = "Medical Image Computing and Computer-Assisted Intervention – MICCAI 2024: 27th International Conference, Marrakesh, Morocco, October 6--10, 2024, Proceedings, Part VIII",
   series = "Lecture Notes in Computer Science (LNCS)",
