@@ -68,11 +68,11 @@ Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: BGF-YOLO: enhanced YOLOv8 with
 Kang, M., Ting, C.-M., Ting, F. F. & Phan, R. C.-W. BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. In *Medical Image Computing and Computer-Assisted Intervention – MICCAI 2024: 27th International Conference, Marrakesh, Morocco, October 6–10, 2024, Proceedings, Part VIII* (eds. Linguraru, M. G. et al.) 35–45 (Springer, 2024).</br>
 
 - Elsevier Numbered Style</br>
-M. Kang, C.-M. Ting, F.F. Ting, R.C.-W. Phan, BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection, in: M.G. Linguraru, Q. Dou, A. Feragen, S. Giannarou, B. Glocker, K. Lekadir, et al. (Eds.), Proceedings of the 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 6–10 October 2024, Marrakesh, Morocco, Springer, Cham, Germany, Vol. 15008 of Lecture Notes in Computer Science (LNCS), 2024, pp. 35–45.</br>
-<sup>**NOTE:** Day(s) Month Year, City, Abbrev. State, Country of Conference, Publiser, and Place of Publication are optional.</sup>
+M. Kang, C.-M. Ting, F.F. Ting, R.C.-W. Phan, BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection, in: M.G. Linguraru, Q. Dou, A. Feragen, S. Giannarou, B. Glocker, K. Lekadir, et al. (Eds.), Proceedings of the 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Vol. 15008 of Lecture Notes in Computer Science (LNCS), 2024, pp. 35–45.</br>
+<sup>**NOTE:** Day(s) Month Year, City, Abbrev. State, Country of Conference, Publiser, and Place of Publication are optional and omitted.</sup>
 
 - Elsevier Name–Date (Harvard) Style</br>
-Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W., 2024. BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. In: M.G. Linguraru, Q. Dou, A. Feragen, S. Giannarou, B. Glocker, K. Lekadir, et al. (Eds.), Proceedings of the 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 6–10 October 2024, Marrakesh, Morocco. Springer, Cham, Germany, Vol. 15008 of Lecture Notes in Computer Science (LNCS), pp. 35–45.</br>
+Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W., 2024. BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. In: M.G. Linguraru, Q. Dou, A. Feragen, S. Giannarou, B. Glocker, K. Lekadir, et al. (Eds.), Proceedings of the 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 6–10 October 2024, Marrakesh, Morocco. Vol. 15008 of Lecture Notes in Computer Science (LNCS), Springer, Cham, Germany, pp. 35–45.</br>
 <sup>**NOTE:** Day(s) Month Year, City, Abbrev. State, Country of Conference, Publiser, and Place of Publication are optional.</sup>
 
 - IEEE Reference Style</br>
@@ -97,7 +97,7 @@ Kang, M., Ting, C.-M., Ting, F.F., & Phan, R.C.-W. (2024). BGF-YOLO: Enhanced YO
 @inproceedings{Kang24Bgfyolo,
   author = "Kang, Ming and Ting, Chee-Ming and Ting, Fung Fung and Phan, Rapha{\"e}l C.-W.",
   title = "{BGF-YOLO}: enhanced {YOLO}v8 with multiscale attentional feature fusion for brain tumor detection",
-  editor = "Linguraru, Marius George and et al.",
+  editor = "Linguraru, Marius George and others",
   booktitle = "Medical Image Computing and Computer-Assisted Intervention – MICCAI 2024: 27th International Conference, Marrakesh, Morocco, October 6--10, 2024, Proceedings, Part VIII",
   series = "Lecture Notes in Computer Science (LNCS)",
   volume = "15008",
@@ -119,7 +119,7 @@ Kang, M., Ting, C.-M., Ting, F.F., & Phan, R.C.-W. (2024). BGF-YOLO: Enhanced YO
   year = "2024"
 }
 ```
-<sup>**NOTE:** Please remove some optional *BibTeX* fields/tags such as `series`, `volume`, `address`, `url`, and so on if the *LaTeX* compiler produces an error. Author names may be manually modified if not automatically abbreviated by the compiler under the control of the bibliography/reference style (i.e., .bst) file. The *BibTex* citation key may be `bib1`, `b1`, or `ref1` when references appear in numbered style in which they are cited. The quotation mark pair `""` in the field could be replaced by the brace `{}`, whereas the brace `{}` in the *BibTeX* field/tag `title` plays a role of keeping letters/characters/text original lower/uppercases or sentence/capitalized cases unchanged while using Springer Nature bibliography style files, for example, sn-nature.bst.</sup>
+<sup>**NOTE:** Please remove some optional *BibTeX* fields/tags such as `series`, `volume`, `address`, `url`, and so on if the *LaTeX* compiler produces an error. Author names may be manually modified if not automatically abbreviated by the compiler under the control of the bibliography/reference style (i.e., .bst) file. The *BibTex* citation key may be `bib1`, `b1`, or `ref1` when references appear in numbered style in which they are cited. `others` in the `author` and `editor` may be `et al.` under some bibliography style files, such as IEEEtran.bst. The quotation mark pair `""` in the field could be replaced by the brace `{}`, whereas the brace `{}` in the *BibTeX* field/tag `title` plays a role of keeping letters/characters/text original lower/uppercases or sentence/capitalized cases unchanged while using Springer Nature bibliography style files, for example, sn-nature.bst.</sup>
 
 ## License
 BGF-YOLO is released under the GNU Affero General Public License v3.0 (AGPL-3.0). Please see the [LICENSE](https://github.com/mkang315/BGF-YOLO/blob/main/LICENSE) file for more information.
