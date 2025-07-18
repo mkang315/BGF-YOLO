@@ -76,11 +76,11 @@ Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W., 2024. BGF-YOLO: enhanced YOLOv
 <sup>**NOTE:** Day(s) Month Year, City, Abbrev. State, Country of Conference, Publiser, and Place of Publication are optional. Alterative version of the booktitle, Day(s) Month Year, City, and Country of Conference is 'Proceedings of the 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 6–10 October 2024, Marrakesh, Morocco.'.</sup>
 
 - IEEE Reference Style</br>
-M. Kang, C.-M. Ting, F. F. Ting, and R. C.-W. Phan, "Bgf-yolo: Enhanced yolov8 with multiscale attentional feature fusion for brain tumor detection," in *Proc. Int. Conf. Med. Image Comput. Comput. Assist. Interv. (MICCAI)*, Marrakesh, Morocco, Oct. 6–10, 2024, pp. 35–45.</br>
+M. Kang, C.-M. Ting, F. F. Ting, and R. C.-W. Phan, "Bgf-yolo: Enhanced yolov8 with multiscale attentional feature fusion for brain tumor detection," in *Proc. Int. Conf. Med. Image Comput. Comput. Assist. Interv. (MICCAI)*, Marrakesh, Morocco, Oct. 6–10, 2024, vol. 15008, pp. 35–45.</br>
 <sup>**NOTE:** City of Conf., Abbrev. State, Country, Month & Day(s) are optional.</sup>
 
 - IEEE Full Name Reference Style</br>
-Ming Kang, Chee-Ming Ting, Fung Fung Ting, and Raphaël C.-W. Phan. Bgf-yolo: Enhanced yolov8 with multiscale attentional feature fusion for brain tumor detection. In *MICCAI*, pages 35–45, 2024.</br>
+Ming Kang, Chee-Ming Ting, Fung Fung Ting, and Raphaël C.-W. Phan. Bgf-yolo: Enhanced yolov8 with multiscale attentional feature fusion for brain tumor detection. In *MICCAI*, vol. 15008, pages 35–45, 2024.</br>
 <sup>**NOTE:** This is a modification to the standard IEEE Reference Style and used by most IEEE/CVF conferences, including *CVPR*, *ICCV*, and *WACV*, to render first names in the bibliography as "Firstname Lastname" rather than "F. Lastname" or "Lastname, F.", which the reference styles of *NeurIPS*, *ICLR*, and *IJCAI* are similar to.</sup>
 
 - APA7 (Author–Date) Style</br>
@@ -117,6 +117,7 @@ Kang, M., Ting, C.-M., Ting, F.F., & Phan, R.C.-W. (2024). BGF-YOLO: Enhanced YO
   booktitle = "Proc. Int. Conf. Med. Image Comput. Comput. Assist. Interv. (MICCAI)",
   % booktitle = MICCAI, %% IEEE Full Name Reference Style
   address = "Marrakesh, Morocco, Oct. 6--10",
+  volume = "15008",
   pages = "35--45",
   year = "2024"
 }
