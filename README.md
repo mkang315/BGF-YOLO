@@ -1,4 +1,11 @@
 # Official BGF-YOLO
+<div style="display:flex;justify-content: center">
+<a href="https://github.com/mkang315/BGF-YOLO"><img src="https://img.shields.io/static/v1?label=GitHub&message=Code&color=black&logo=github"></a>
+<a href="https://github.com/mkang315/BGF-YOLO"><img alt="Build" src="https://img.shields.io/github/stars/mkang315/BGF-YOLO"></a> 
+<a href="https://huggingface.co/mkang315/BGF-YOLO"><img src="https://img.shields.io/static/v1?label=%F0%9F%A4%97%20Hugging%20Face&message=Model&color=yellow"></a>
+<a href="https://arxiv.org/abs/2309.12585"><img alt="Build" src="https://img.shields.io/badge/arXiv%20paper-2410.21822-b31b1b.svg"></a>
+</div>
+</br>
 This is the source code for the paper, "BGF-YOLO: Enhanced YOLOv8 with Multiscale Attentional Feature Fusion for Brain Tumor Detection", early accepted by the 27th International Conference on Medical Image Computing and Computer Assisted Intervention ([MICCAI 2024](https://conferences.miccai.org/2024/en)), of which I am the first author. The paper is available to download from [Springer](https://link.springer.com/content/pdf/10.1007/978-3-031-72111-3_4) or [arXiv](https://arxiv.org/pdf/2309.12585).
 
 ## Model
