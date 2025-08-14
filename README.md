@@ -64,6 +64,8 @@ Ming Kang, Chee-Ming Ting, Fung Fung Ting, and Raphaël C.-W. Phan. Bgf-yolo: En
 - **APA7 (Author–Date) Style**</br>
 Kang, M., Ting, C.-M., Ting, F.F., & Phan, R.C.-W. (2024). BGF-YOLO: Enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. In M.G. Linguraru, Q. Dou, A. Feragen, S. Giannarou, B. Glocker, K. Lekadir, J. A. Schnabel (Eds.), *Medical Image Computing and Computer-Assisted Intervention – MICCAI 2024: 27th International Conference, Marrakesh, Morocco, October 6–10, 2024, Proceedings, Part VIII* (pp. 35–45). Springer. https://doi.org/10.1007/978-3-031-72111-3_4</br>
 
+- **ICML APA Reference Format**</br>
+Kang, M., Ting, C.-M., Ting, F.F., and Phan, R.C.-W. BGF-YOLO: Enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. In M.G. Linguraru, Q. Dou, A. Feragen, S. Giannarou, B. Glocker, K. Lekadir, J. A. Schnabel (Eds.), *Medical Image Computing and Computer-Assisted Intervention – MICCAI 2024: 27th International Conference, Marrakesh, Morocco, October 6–10, 2024, Proceedings, Part VIII*, pp. 35–45, Cham, Germany, 2024. Springer.
 
 > BibTeX Format</br>
 ```
