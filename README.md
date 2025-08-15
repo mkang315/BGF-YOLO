@@ -40,7 +40,7 @@ Please cite the paper if using this repository. Here is a guide to referencing t
 > Plain Text</br>
 - **Springer Reference Style**</br>
 Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. In: Linguraru, M.G., et al. (eds.) MICCAI 2024. LNCS, vol. 15008, pp. 35–45. Springer, Cham (2024). https://doi.org/10.1007/978-3-031-72111-3_4</br>
-<sup>**NOTE:** MICCAI conference proceedings are part of the book series LNCS in which Springer's format for bibliographical references is strictly enforced. This is important, for instance, when citing previous MICCAI proceedings, which the reference style of *ECCV* is same as. LNCS stands for Lecture Notes in Computer Science.</sup>
+<sup>**NOTE:** *MICCAI* and *ECCV* conference proceedings are part of the book series LNCS in which Springer's format for bibliographical references is strictly enforced. This is important, for instance, when citing previous *MICCAI* and *ECCV* proceedings. LNCS stands for Lecture Notes in Computer Science.</sup>
 
 - **Nature Reference Style**</br>
 Kang, M., Ting, C.-M., Ting, F. F. & Phan, R. C.-W. BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. In *Medical Image Computing and Computer-Assisted Intervention – MICCAI 2024: 27th International Conference, Marrakesh, Morocco, October 6–10, 2024, Proceedings, Part VIII* (eds. Linguraru, M. G. et al.) 35–45 (Springer, 2024).</br>
