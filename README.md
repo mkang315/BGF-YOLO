@@ -53,6 +53,12 @@ M. Kang, C.-M. Ting, F.F. Ting, R.C.-W. Phan, BGF-YOLO: enhanced YOLOv8 with mul
 Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W., 2024. BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. In: M.G. Linguraru, Q. Dou, A. Feragen, S. Giannarou, B. Glocker, K. Lekadir, et al. (Eds.), Medical Image Computing and Computer-Assisted Intervention – MICCAI 2024: 27th International Conference, Marrakesh, Morocco, October 6–10, 2024, Proceedings, Part VIII. Vol. 15008 of Lecture Notes in Computer Science (LNCS), Springer, Cham, Germany, pp. 35–45.</br>
 <sup>**NOTE:** Day(s) Month Year, City, Abbrev. State, Country of Conference, Publiser, and Place of Publication are optional. Alterative version of the booktitle, Day(s) Month Year, City, and Country of Conference is 'Proceedings of the 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 6–10 October 2024, Marrakesh, Morocco.'.</sup>
 
+- **Elsevier Vancouver Style**</br>
+Kang M, Ting C-M, Ting FF, Phan RC-W. BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. In: Linguraru MG, Dou Q, Feragen A, Giannarou S, Glocker B, Lekadir K, et al., editors. Medical Image Computing and Computer-Assisted Intervention – MICCAI 2024: 27th International Conference, Marrakesh, Morocco, October 6–10, 2024, Proceedings. Lecture Notes in Computer Science (LNCS), Vol. 15008. Cham: Springer; 2024. p. 35–45.</br>
+
+- **Elsevier Embellished Vancouver Style**</br>
+Kang M, Ting C-M, Ting FF, Phan RC-W. BGF-YOLO: enhanced YOLOv8 with multiscale attentional feature fusion for brain tumor detection. In: Linguraru MG, Dou Q, Feragen A, Giannarou S, Glocker B, Lekadir K, et al., editors. *Medical Image Computing and Computer-Assisted Intervention – MICCAI 2024: 27th International Conference, Marrakesh, Morocco, October 6–10, 2024, Proceedings*. *Lecture Notes in Computer Science (LNCS)*, Vol. 15008. Cham: Springer; 2024. p. 35–45.</br>
+
 - **IEEE Reference Style**</br>
 M. Kang, C.-M. Ting, F. F. Ting, and R. C.-W. Phan, "Bgf-yolo: Enhanced yolov8 with multiscale attentional feature fusion for brain tumor detection," in *Proc. Int. Conf. Med. Image Comput. Comput. Assist. Interv. (MICCAI)*, Marrakesh, Morocco, Oct. 6–10, 2024, vol. 15008, pp. 35–45.</br>
 <sup>**NOTE:** City of Conf., Abbrev. State, Country, Month & Day(s) are optional.</sup>
