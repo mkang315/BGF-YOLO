@@ -117,7 +117,7 @@ Kang, M., Ting, C.-M., Ting, F. F., and Phan, R. C.-W. BGF-YOLO: Enhanced YOLOv8
 <sup>**NOTE:** Please remove some optional *BibTeX* fields/tags such as `series`, `volume`, `address`, `url`, and so on if the *LaTeX* compiler produces an error. Author names may be manually modified if not automatically abbreviated by the compiler under the control of the bibliography/reference style (i.e., .bst) file. The *BibTex* citation key may be `bib1`, `b1`, or `ref1` when references appear in numbered style in which they are cited. `others` in the `author` and `editor` may be `et al.` under some bibliography style files, such as IEEEtran.bst. The quotation mark pair `""` in the field could be replaced by the brace `{}`, whereas the brace `{}` in the *BibTeX* field/tag `title` plays a role of keeping letters/characters/text original lower/uppercases or sentence/capitalized cases unchanged while using Springer Nature bibliography style files, for example, sn-nature.bst.</sup>
 
 ## License
-BGF-YOLO is released under the GNU Affero General Public License v3.0 (AGPL-3.0). Please see the [LICENSE](https://github.com/mkang315/BGF-YOLO/blob/main/LICENSE) file for more information.
+BGF-YOLO is released under the GNU Affero General Public License v3.0 (AGPL-3.0). Please view the [LICENSE](https://github.com/mkang315/BGF-YOLO/blob/main/LICENSE) file for more information.
 
 ## Copyright Notice
 Many utility codes of our project base on the codes of [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics), [GiraffeDet](https://github.com/damo-cv/GiraffeDet), [DAMO-YOLO](https://github.com/tinyvision/DAMO-YOLO), and [BiFormer](https://github.com/rayleizhu/BiFormer) repositories.
